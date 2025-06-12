@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a class = "hover" href="https://x.com/NIVETHxVM" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white&labelWidth=60" alt="X">
 </a>
 
 </p>
