@@ -15,6 +15,9 @@
 <a class = "hover" href="https://www.linkedin.com/in/niveth-vm-5287b8316/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a class = "hover" href="https://x.com/NIVETHxVM" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </p>
 
