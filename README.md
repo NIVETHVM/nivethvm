@@ -1,45 +1,38 @@
+### <h1 align="center">Hi, I'm Niveth Krishna V M</h1>
+<h3 align="center">BTech CSE'28 @ CUSAT | Unity Game Developer </h3>
 
-<h1 align="center">Hi 👋, I'm Niveth</h1>
-<h3 align="center">BTech CSE'28 @ CUSAT | UNITY GAME DEVELOPER </h3>
+## 🌐 Socials:
+[<img align="center" height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="center" height="30" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white&labelWidth=60" />][X]
+<br></br>
 
-<div>
+## 🙋‍♂️ About Me
+
+I’m a Tech enthusiast exploring the world of Software development, Game development, and AI. I love building cool projects—from web apps to Unity games—and diving deep into topics like Data Structures, Algorithms, and Automation.
+<br></br>
+
+## 🧰 My Tech Toolbox
+
+[![My Skills](https://skillicons.dev/icons?i=java,unity,py,git,github,cpp,blender,c,figma,cs,js,html,css,linux,docker)](https://skillicons.dev)
+<br></br>
+
+<!--## 📊 My Github Stats
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NIVETHVM&show_icons=true&theme=dark" />
   
-</div>
 
+## ✨ Top Languages Card
 
-## 🌐 *Socials:*
-<p align="left">
-<a class = "hover" href="https://www.instagram.com/niveth_vm/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a class = "hover" href="https://www.linkedin.com/in/niveth-vm-5287b8316/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a class = "hover" href="https://x.com/NIVETHxVM" target="_blank">
-  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white&labelWidth=60" alt="X">
-</a>
+![Top Langs](https://raw.githubusercontent.com/i-aiymen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-</p>
+## 🔥 Streak Stats
 
----
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=i-aiymen&theme=monokai-metallian&hide_border=true)
 
-## 💻 *Tech Stack:*
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-006400?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Figma-4B0082?style=for-the-badge&logo=figma&logoColor=white">
-  
-</p>
-
----
-
-
+![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=i-aiymen&theme=xcode)
+-->
+[linkedin]: https://www.linkedin.com/in/nivethvm/
+[gmail]: mailto:nivethxvm@gmail.com
+[X]:https://x.com/NIVETHxVM
