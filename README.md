@@ -17,7 +17,7 @@ I’m a Tech enthusiast exploring the world of Software development, Game develo
 [![My Skills](https://skillicons.dev/icons?i=java,unity,py,git,github,cpp,blender,c,figma,cs,js,html,css,linux,docker)](https://skillicons.dev)
 <br></br>
 
-<!--## 📊 My Github Stats
+<!--##  📊 My Github Stats
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=NIVETHVM&show_icons=true&theme=dark" />
