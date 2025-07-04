@@ -1,4 +1,4 @@
-### <h1 align="center">Hi, I'm Niveth Krishna V M</h1>
+### <h1 align="center">Hi, I'm Niveth Krishna VM</h1>
 <h3 align="center">BTech CSE'28 @ CUSAT | Unity Game Developer </h3>
 
 ## 🌐 Socials:
