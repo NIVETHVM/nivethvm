@@ -20,7 +20,7 @@ I’m a Tech enthusiast exploring the world of Software development, Game develo
 <!--##  📊 My Github Stats
 
 
-  < img src="https://github-readme-stats.vercel.app/api ? username=NIVETHVM&show_icons=true&theme=dark"  />
+  < img   src="https://github-readme-stats.vercel.app/api ? username=NIVETHVM&show_icons=true&theme=dark"  />
   
 
 ## ✨ Top Languages Card
